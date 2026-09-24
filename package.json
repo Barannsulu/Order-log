@@ -1,0 +1,17 @@
+{
+  "name": "order-log",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.128.0",
+    "@supabase/supabase-js": "^2.117.1",
+    "next": "^15.5.26",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "private": true
+}
